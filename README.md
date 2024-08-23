@@ -27,14 +27,3 @@ Este é um projeto simples de jogo de adivinhação em Python. O objetivo do jog
     python jogo_adivinhacao.py
     ```
 
-## Requisitos
-
-- Python 3...
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias ou correções. Se você tiver sugestões ou encontrar problemas, abra uma issue ou envie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
